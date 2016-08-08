@@ -1,0 +1,17 @@
+Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+Comparando as modificações entre 2 versões diferentes de forma automática.
+
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+Me possibilita acompanhar o desenvolvimento da aplicação e das minhas próprias habilidades.
+
+Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+Porque normalmente aplicações são divididos em vários arquivos que dependem um do outro para o programa funcionar, porém em casos como o Google Doc, cada arquivo é independente dos outro, logo não há necessidade de uma interligação.
+
+Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+Posso usá-los para acompanhar todos os commits que foram dados e suas respectivas alterações.
+
+De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+Possibilitando que utilizemos de versões anteriores para nos previnir de novos erros.
+
+Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+Para me acompanhar no desenvolvimento de cada projeto afim de me poupar tempo e aumentar a segurança do processo de implementação.
