@@ -3,3 +3,18 @@ ele cria uma pasta oculta ".git" a qual irá manter as versões da minha aplica�
 
 Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
 O diretório de trabalho estão todos os arquivos, porém temos a liberdade de selecionar alguns que serão enviados para a área de preparação, onde estes de fato, serão submetidos no commit.
+
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+Mesmo após diversas alterações posso usar a área de preparação para pôr um arquivo ou subconjunto de arquivos por vez.
+
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+para ter versões independentes ou de teste do mesmo projeto. Me ajudaria criando ramificações do versionamento da aplicação.
+
+Como os diagramas ajudam a visualizar a estrutura de branches?
+Os commits não são lineares, para que não seja confundido a posição de cada commit e a função de cada branch podemos usar diagramas para facilitar a manipulação das versões.
+
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+As modificações de ambas as branches são aplicadas em um novo commit. A representação é feita porque é unido os dois branches de tal forma a qual todos os pais de cada branch se tornam ligados ao novo branch que foi combinado.
+
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+Mesclagem automática pode acabar por causar conflitos no programa onde ambos os commits alteraram, mas em casos mais simples onde as alterações são independetes, a mesclagem automática otimiza o tempo do desenvolvedor. A mesclagem manual é essencial para manter a integridade do sistema em algun casos.
