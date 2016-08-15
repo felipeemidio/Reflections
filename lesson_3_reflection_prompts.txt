@@ -3,3 +3,6 @@ O repositório remoto é mais seguro, e é o ideal para trabalhos em cooperaçã
 
 Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
 Porque mais de uma pessoa pode atualizar o GitHub, podendo interferir em modificações a qual trabalho.
+
+Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+Bifurcações clonam um projeto de alguém no meu repositorio remoto, referenciando o projeto original. Clone copia o projeto do repositório remoto para o local ou do repositório local para outro local. Branches são linhas de versionamento ao qual podem divergir e convergir. Escolher entre Bifurcação e Clone depende para qual local quero copiar o projeto e branchs sempre que eu quiser separar uma versão das versões existentes.
