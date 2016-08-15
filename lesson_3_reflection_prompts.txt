@@ -6,3 +6,9 @@ Porque mais de uma pessoa pode atualizar o GitHub, podendo interferir em modific
 
 Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
 Bifurcações clonam um projeto de alguém no meu repositorio remoto, referenciando o projeto original. Clone copia o projeto do repositório remoto para o local ou do repositório local para outro local. Branches são linhas de versionamento ao qual podem divergir e convergir. Escolher entre Bifurcação e Clone depende para qual local quero copiar o projeto e branchs sempre que eu quiser separar uma versão das versões existentes.
+
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+Evitar que as modificações feitas pelos meus colaboradores não sejam muito grandes. Nesse caso, seria dificil fazer um merge
+
+Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
+Seria muito dificil a progrmação paralela entre a equipe, e teriamos certas dificuldades em encontrar alguns erros feitos pelas modificações.
