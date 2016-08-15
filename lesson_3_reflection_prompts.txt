@@ -12,3 +12,6 @@ Evitar que as modificações feitas pelos meus colaboradores não sejam muito gr
 
 Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
 Seria muito dificil a progrmação paralela entre a equipe, e teriamos certas dificuldades em encontrar alguns erros feitos pelas modificações.
+
+Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+Quando quero fazer alterações arriscadas ou quando não é bom mudar a versão original do projeto sem consultar os colaboradores. Usar apenas uma branch é bem mais simples se estou trabalhando sozinho, mas um trabalho cooperativo o uso de branchs para manter a ordem é fundamental.
